@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6254
     wikipedia: http://en.wikipedia.org/wiki/Stephen_Johnson_Field
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15752#Personal-Reminiscences-of-Early-Days-in-California-with-Other-Sketches--To-Which-Is-Added-the_
 gutenberg_issued: '2005-05-02'
 gutenberg_type: Text
 identifiers:
