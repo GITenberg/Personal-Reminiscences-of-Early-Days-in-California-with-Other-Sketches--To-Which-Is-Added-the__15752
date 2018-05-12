@@ -1,0 +1,42 @@
+_repo: Personal-Reminiscences-of-Early-Days-in-California-with-Other-Sketches--To-Which-Is-Added-the__15752
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Gorham, George C. (George Congdon)
+    alias: Gorham, George Congdon
+    birthdate: 1832
+    deathdate: 1909
+    gutenberg_agent_id: '6251'
+    url: http://www.gutenberg.org/2009/agents/6251
+    wikipedia: http://en.wikipedia.org/wiki/George_Congdon_Gorham
+  - agent_name: Field, Stephen J. (Stephen Johnson)
+    alias: Field, Stephen Johnson
+    birthdate: 1816
+    deathdate: 1899
+    gutenberg_agent_id: '6254'
+    url: http://www.gutenberg.org/2009/agents/6254
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Johnson_Field
+description: ''
+gutenberg_issued: '2005-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15752'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lawyers -- California -- Biography'
+- !lcsh 'Field, Stephen J. (Stephen Johnson), 1816-1899'
+- !lcsh 'Law -- Political aspects -- California'
+- !lcc 'E660'
+- !lcsh 'Judges -- California -- Biography'
+- !lcc 'KF'
+- !lcsh 'Mines and mineral resources -- California'
+title: Personal Reminiscences of Early Days in California with Other Sketches; To
+  Which Is Added the Story of His Attempted Assassination by a Former Associate on
+  the Supreme Bench of the State
+url: http://www.gutenberg.org/ebooks/15752
